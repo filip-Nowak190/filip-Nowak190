@@ -28,7 +28,6 @@ I enjoy turning raw data into structured, meaningful and useful information.
 ### Tools
 - Git & GitHub
 - SQL Server Management Studio
-- VS Code
 
 ---
 
@@ -86,8 +85,8 @@ I'm working towards a career in **Data Analytics / Data Engineering** and buildi
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 Email: [Your Email](mailto:YOUR_EMAIL)
+- 💼 LinkedIn: https://www.linkedin.com/in/filip-nowak-a733a6336/
+- 📧 Email: filip.mowak.981@gmail.com
 
 ---
 
