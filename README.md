@@ -72,7 +72,6 @@ A SQL-based analytics project focused on extracting insights from a data warehou
 - Building end-to-end data projects
 - Learning Python for data processing
 - Exploring Power BI and data visualization
-- Learning cloud technologies
 - Developing my data engineering skills
 
 ---
