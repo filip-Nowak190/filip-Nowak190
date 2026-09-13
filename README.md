@@ -1,16 +1,94 @@
-## Hi there 👋
+# Hi, I'm Filip 👋
 
-<!--
-**filip-Nowak190/filip-Nowak190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst & Data Engineer
 
-Here are some ideas to get you started:
+I'm currently building my skills in data analytics and data engineering, with a strong focus on SQL, data warehousing, ETL processes and data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning raw data into structured, meaningful and useful information.
+
+---
+
+## 🛠️ Tech Stack
+
+### Data & Analytics
+- SQL / T-SQL
+- SQL Server
+- Data Warehousing
+- ETL
+- Data Modeling
+- Data Analysis
+
+### Currently Learning
+- Python 🐍
+- Power BI 📊
+- Azure ☁️
+- Advanced SQL
+- Data Engineering
+
+### Tools
+- Git & GitHub
+- SQL Server Management Studio
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 Data Warehouse Project
+
+An end-to-end data warehouse project built with SQL Server.
+
+**What I worked on:**
+- ETL processes
+- Data cleaning and transformation
+- Data warehouse architecture
+- Bronze / Silver / Gold layers
+- Fact and dimension tables
+- Star schema
+- Data quality checks
+
+🔗 [View the project](https://github.com/filip-Nowak190/Data-Warehouse-Project)
+
+---
+
+### 📊 DataWarehouse Analytics Hub
+
+A SQL-based analytics project focused on extracting insights from a data warehouse.
+
+**What I worked on:**
+- SQL analysis
+- Business KPIs
+- Customer analysis
+- Sales analysis
+- Aggregations and window functions
+- Analytical queries
+
+🔗 [View the project](https://github.com/filip-Nowak190/DataWarehouse_Analytics_Hub)
+
+---
+
+## 📚 What I'm Working On
+
+- Improving my SQL skills
+- Building end-to-end data projects
+- Learning Python for data processing
+- Exploring Power BI and data visualization
+- Learning cloud technologies
+- Developing my data engineering skills
+
+---
+
+## 🎯 My Goal
+
+I'm working towards a career in **Data Analytics / Data Engineering** and building practical projects to develop my technical and analytical skills.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
+- 📧 Email: [Your Email](mailto:YOUR_EMAIL)
+
+---
+
+⭐ Feel free to check out my repositories and follow my progress!
